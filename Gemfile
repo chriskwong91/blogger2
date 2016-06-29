@@ -32,6 +32,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use paperclip
 gem 'paperclip'
 
+# Adds an Sorcery Authentication
+gem 'sorcery'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
